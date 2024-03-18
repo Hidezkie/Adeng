@@ -1,0 +1,95 @@
+<html lang="en">
+
+<head> 
+     <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="styles.css"> 
+     <script defer src="script.js">
+</script> 
+     <title>Audio and Lyrics Website</title>
+
+</head> 
+<body>
+<body bgcolor ="pink">
+ 
+    <!-
+• Your content will go here -->
+
+
+</body> 
+</html>
+
+<!-
+• Your content will go here --> 
+
+
+
+
+<!-
+• Your content will go here --> 
+<section class="audio-section">
+<center><img scr"
+<img src="	" 
+height="200" 
+width="200">
+    <audio controls> 
+         <source src="Hold on.mp3" type="audio/mp3">
+
+        Your browser does not support the audio element. 
+     </audio> 
+    <div class="lyrics-container"> 
+         <h2 align="center">EASY ON ME</h2>
+
+        <ul> 
+
+<li><hr>Verse 1:
+
+There ain't no gold in this river
+That I've been washin' my hands in forever
+I know there is hope in these waters
+But I can't bring myself to swim
+When I am drowning in this silence
+Baby, let me in
+
+Go easy on me, baby
+I was still a child
+Didn't get the chance to
+Feel the world around me
+I had no time to choose
+What I chose to do
+So go easy on me
+<li><hr>Chorus: 
+
+
+
+<li>
+There ain't no room for things to change
+When we are both so deeply stuck in our ways
+You can't deny how hard I've tried
+I changed who I was to put you both first
+But now I give up
+
+
+<li><hr>verse Go easy on me, baby
+I was still a child
+Didn't get the chance to
+Feel the world around me
+Had no time to choose
+What I chose to do
+So go easy on me
+I had good intentions
+And the highest hopes
+But I know right now
+It probably doesn't even show
+
+<li><hr>Go easy on me, baby
+I was still a child
+I didn't get the chance to
+Feel the world around me
+I had no time to choose
+What I chose to do
+So go easy on me
+
+</section>
